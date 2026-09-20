@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "215231800790",
+    "project_id": "elophia-98a81",
+    "storage_bucket": "elophia-98a81.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215231800790:android:e8bcd7b98947e4f03b7077",
+        "android_client_info": {
+          "package_name": "com.example.elophia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215231800790-kn88obdme4jsh17ml5lfignvf1b7iren.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.elophia",
+            "certificate_hash": "8be1cfa0cb8164f7dfd31d8c370b5446b9e2033b"
+          }
+        },
+        {
+          "client_id": "215231800790-7tm0h0f955j3se4dd88gv443v6h4k0pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGa9nqQEYdQ9TatNobFBwZ2PXyq19_ePM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215231800790-7tm0h0f955j3se4dd88gv443v6h4k0pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base theme (Android 11 and below) -->
+    <style name="Theme.Elophia" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+        <item name="android:statusBarColor">@color/elophia_navy</item>
+        <item name="android:navigationBarColor">@color/elophia_navy</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+    </style>
+
+    <!-- Splash-only theme (applied in manifest at launch, then switched to Theme.Elophia) -->
+    <style name="Theme.Elophia.Splash" parent="Theme.Elophia">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+
+</resources>
